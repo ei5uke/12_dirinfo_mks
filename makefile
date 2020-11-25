@@ -5,7 +5,7 @@ work12.o: work12.c
 	gcc -c work12.c
 
 run:
-	./work12
+	./work12 a
 
 clean:
 	rm -f work12
